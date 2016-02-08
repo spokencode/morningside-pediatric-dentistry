@@ -1,0 +1,13 @@
+.button.fl-preview-button {
+    margin: 5px 0;
+    width: 100%;
+}
+.fl-code-editor {
+    border: 1px solid #ccc;
+	height: 300px;
+	position: absolute;
+	top: 5px;
+}
+.ace_editor.ace_autocomplete {
+	z-index: 100000000 !important;
+}
